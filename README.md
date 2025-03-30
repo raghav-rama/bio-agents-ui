@@ -21,8 +21,8 @@ A modern dashboard for visualizing and managing deployed AI Agents, built with N
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/bioagents-dashboard.git
-   cd bioagents-dashboard
+   git clone https://github.com/raghav-rama/bio-agents-ui.git
+   cd bio-agents-ui
    ```
 
 2. Install dependencies
